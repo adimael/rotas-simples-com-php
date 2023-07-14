@@ -1,0 +1,15 @@
+{
+    "name": "adimael/phpaula",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "adimael",
+            "email": "adimaelbr@gmail.com"
+        }
+    ],
+    "require": {}
+}
