@@ -4,4 +4,8 @@ Rotas Simples com PHP Orientado a Objetos#01 - Sistema de templates com o Plates
 
 - git clone https://github.com/adimael/rotas-simples-com-php.git
 
+- composer update
+
+- composer dump-autoload
+
 - php -S localhost:8000 -t public/
